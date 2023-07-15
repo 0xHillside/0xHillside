@@ -15,5 +15,7 @@ Goals?
 - Learning C
 	- why? so i can learn an actual language i can use lol 
 - End goal?
-	- Creating my own custom C2 framework
 	- Winning a CTF for once
+  	- Getting my eJPT cert.
+	- Getting an internship
+	- Creating my own custom C2 framework
