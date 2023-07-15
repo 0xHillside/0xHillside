@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey :3
+## self bio here or somtheing
 
-<!--
-**0xHillside/0xHillside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ill be documenting my journey studying random stuff I find interesting and observations that I find extremely interesting.
+I like to play boot2root & attack n' defense hacking, main focus now is CTF challenges
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals?
+- Mastering web CTF challenges
+	- SQL injection 60%
+	- XSS ??
+	- XXE ??
+	- Brute force 100%
+	- File Upload ??
+	- LFI (Local file inclusion) ??
+- Learning C
+	- why? so i can learn an actual language i can use lol 
+- End goal?
+	- Creating my own custom C2 framework
+	- Winning a CTF for once
