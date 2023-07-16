@@ -11,7 +11,7 @@ Goals?
 	- XXE ??
 	- Brute force 100%
 	- File Upload ??
-	- LFI (Local file inclusion) ??
+	- LFI (Local file inclusion) 90%
 - Learning C
 	- why? so i can learn an actual language i can use lol 
 - End goal?
