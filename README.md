@@ -13,7 +13,7 @@ Goals from whats being currently worked on to more distant future
 		- XSS ??
 		- XXE ??
 		- Brute force 100%
-		- File Upload ??
+		- File Upload 80%
 		- LFI (Local file inclusion) 90%
 
 - End goals?
