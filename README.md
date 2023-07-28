@@ -9,12 +9,6 @@ Goals from whats being currently worked on to more distant future
 	- Getting eJPT certification
 	- learning python
 	- Mastering web CTF challenges, abit embarassing considering i love boot2root lol
-		- SQL injection 70%
-		- XSS ??
-		- XXE ??
-		- Brute force 100%
-		- File Upload 80%
-		- LFI (Local file inclusion) 90%
 
 - End goals?
 	- Winning a CTF IRL.
