@@ -2,7 +2,7 @@
 ## self bio here or somtheing
 
 Ill be documenting my journey studying random stuff and making observations on things i deem, cool, interesting or batshit insane.
-I like to play boot2root & attack n' defense hacking, main focus now is CTF challenges. Recently particapated in [Jordans National Cyber Security Center][https://ctf.ncsc.jo/] CTF placing 32/80
+I like to play boot2root & attack n' defense hacking, main focus now is CTF challenges. Recently particapated in Jordans National Cyber Security Center CTF placing 32/80
 
 Goals from whats being currently worked on to more distant future
 - Current goals
