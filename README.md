@@ -6,11 +6,10 @@ I like to play boot2root & attack n' defense hacking, main focus now is CTF chal
 
 Goals from whats being currently worked on to more distant future
 - Current goals
-	- Getting eJPT certification
-	- learning python
-	- Mastering web CTF challenges, abit embarassing considering i love boot2root lol
+	- learning Maldev
+	- Getting better at Web CTF challenges
+ 	- Winning a CTF
 
 - End goals?
-	- Winning a CTF IRL.
   	- Getting a OSCP cert.
 	- Creating _my own custom_ C2 framework
