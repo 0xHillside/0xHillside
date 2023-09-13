@@ -13,3 +13,4 @@ Goals from whats being currently worked on to more distant future
 - End goals?
   	- Getting a OSCP cert.
 	- Creating _my own custom_ C2 framework
+ 	- Becoming a red team operator
