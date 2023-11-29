@@ -7,8 +7,8 @@ I like to play boot2root & attack n' defense hacking, main focus now is CTF chal
 Goals from whats being currently worked on to more distant future
 - Current goals
 	- learning Maldev (includes C and assembly)
- 	- Winning a CTF
-  	- getting better with C 	
+  	- Finishing eJPT
+	- Winning a CTF  
 
 - End goals?
   	- Getting a OSCP cert.
