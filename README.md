@@ -5,10 +5,10 @@ Ill be documenting my journey studying random stuff and making observations on t
 I like to play boot2root & attack n' defense hacking, main focus now is CTF challenges.
 
 Goals from whats being currently worked on to more distant future
-- Current goals
+- Achieved goals
   	- ~~eJPT~~
-  	- Revising and mastering OWASP TOP 10
-  	- Preparing for PNPT
+  	- PNPT
+  - Revising and mastering OWASP TOP 10
 - End goals?
 	- Getting the followings certs.
   		- OSCP
