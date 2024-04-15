@@ -8,8 +8,5 @@ Goals from whats being currently worked on to more distant future
 - Achieved goals
   	- ~~eJPT~~
   	- PNPT
-  - Revising and mastering OWASP TOP 10
-- End goals?
-	- Getting the followings certs.
-  		- OSCP
-	- Creating _my own custom_ C2 framework
+  - Reaching top 50 in jordan HackTheBox ranks
+
