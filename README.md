@@ -8,5 +8,3 @@ Goals from whats being currently worked on to more distant future
 - Achieved goals
   	- ~~eJPT~~
   	- PNPT
-  - Reaching top 50 in jordan HackTheBox ranks
-
